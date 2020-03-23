@@ -11,6 +11,6 @@ You MUST have [P4V](https://www.perforce.com/downloads/helix-visual-client-p4v) 
 4) Press Enter <br>
 
 ### Glossary
-[P4V](https://www.perforce.com/downloads/helix-visual-client-p4v) - A source-control (git) program, AKA: Perforce, Helix Visual Client <br>
+[P4V](https://www.perforce.com/downloads/helix-visual-client-p4v) - A source-control (git) program, AKA: Perforce, Helix Visual Client.<br>
 CLs - Change Lists. The lists of file you change via P4V. <br>
 Stream - The main and common root path (folder) for a specific files set to work on. <br>
