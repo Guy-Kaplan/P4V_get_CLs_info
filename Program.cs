@@ -138,7 +138,7 @@ namespace P4V_get_CLs_info
 
         /// <summary>
         /// Creates an Excel document with one sheet and one table with the P4V data
-        /// of the given month & year
+        /// of the given month and year
         /// </summary>
         /// <param name="month">The given month to show the data from</param>
         /// <param name="year">The given year to show the data from</param>
@@ -178,7 +178,7 @@ namespace P4V_get_CLs_info
         }//end of CreateExcelSheetsAndTables
 
         /// <summary>
-        /// This function adds the data form the given month & year to the Excel sheet
+        /// This function adds the data form the given month and year to the Excel sheet
         /// </summary>
         /// <param name="sheet">The sheet object</param>
         /// <param name="monthStr">The given month</param>
@@ -233,7 +233,7 @@ namespace P4V_get_CLs_info
 
             // set curr Excel sheet
 
-            // add column names & settings (row 1)
+            // add column names and settings (row 1)
             sheet.Cells[1, 1] = "CL#";
 
             sheet.Cells[1, 2] = "User name";
